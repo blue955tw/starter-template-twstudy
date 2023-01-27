@@ -13,16 +13,16 @@ date: 2023-01-27 16:52:30
 
 - #### Check [demo](https://blue955tw.github.io/starter-template-twstudy) here.
 
-![Screenshot](/screenshots/1.%20home%20page.png "Fresh")
+![Screenshot](/screenshots/1.%20home%20page.png)
 
-![Screenshot](/screenshots/2.%20courses%20page.png "Fresh")
+![Screenshot](/screenshots/2.%20courses%20page.png)
 
-![Screenshot](/screenshots/3.%20course%20detail%20page.png "Fresh")
+![Screenshot](/screenshots/3.%20course%20detail%20page.png)
 
-![Screenshot](/screenshots/4.%20login%20page.png "Fresh")
+![Screenshot](/screenshots/4.%20login%20page.png)
 
-![Screenshot](/screenshots/5.%20sign%20up%20page.png "Fresh")
+![Screenshot](/screenshots/5.%20sign%20up%20page.png)
 
-![Screenshot](/screenshots/6.%20contact%20page.png "Fresh")
+![Screenshot](/screenshots/6.%20contact%20page.png)
 
-![Screenshot](/screenshots/7.%20style%20switcher.png "Fresh")
+![Screenshot](/screenshots/7.%20style%20switcher.png)
